@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-  color: #a24936;
+  color: #9684a1;
   text-decoration: none;
 }
 
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #a24936;
+  color: #9684a1;
   text-decoration: none;
 }
 
@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #a24936;
+  color: #9684a1;
   text-decoration: none;
 }
 
